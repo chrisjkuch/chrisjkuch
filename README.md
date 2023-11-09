@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heyo!
+
+I'm Chris, a data scientist based in Chicago, IL. I'm a recovering academic with a love for data visualization and making tools that are useful to people.
+
+I'm currently a Senior Data Scientist at [DrivenData](https://www.drivendata.org/) working at the intersection of data science and social impact.
 
 <!--
 **chrisjkuch/chrisjkuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
